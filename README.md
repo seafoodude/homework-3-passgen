@@ -25,10 +25,12 @@ N/A
 To use this Homework 3 PassGen, you can click on the generate password button, and decide on the criteria through the given prompts. For suggestions on what to do first, feel free to click on the generate password button. It will prompt a series of criteria (character length, upper/lowercase, numeric, and special characters), and display a random password with those criteria at the end.
 
 **SCREENSHOTS**
-![Screenshot of Portfolio](./assets/imgs/ScreenshotPortfolio.PNG)
-![Screenshot of About](./assets/imgs/SSabout.PNG)
-![Screenshot of Projects](./assets/imgs/SSprojects.PNG)
-![Screenshot of Contact](./assets/imgs/SScontact.PNG)
+![Screenshot of Initial Screen](./Assets/imgs/03-javascript-homework-demo.png)
+![Screenshot of Password Length](./Assets/imgs/passlength.PNG)
+![Screenshot of LowerCase](./Assets/imgs/lowcase.PNG)
+![Screenshot of UpperCase](./Assets/imgs/upcase.PNG)
+![Screenshot of Numeric](./Assets/imgs/numeric.PNG)
+![Screenshot of Special Characters](./Assets/imgs/specchar.PNG)
 
 
 ## Credits
