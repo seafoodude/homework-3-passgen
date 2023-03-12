@@ -1,5 +1,7 @@
 # Homework 3 PassGen
 
+https://seafoodude.github.io/homework-3-passgen/
+
 ## Description
 
 This Homework 3 PassGen was created for boot camp students who were going through Module 03. It contains a random password generator that is able to create a random password based on criteria given from the user.
